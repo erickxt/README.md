@@ -4,10 +4,6 @@
 
 I'm a 16-year-old programming student focused on **Front-End development**. I'm at the beginning of my tech journey, constantly learning and improving my skills.
 
-<br>
-
-<img src="./computer-illustration.png" width="400" style="margin-top: 30px;" />
-
 ---
 
 ### 🧠 Technologies I'm currently learning:
