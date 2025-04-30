@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer Illustration" width="400px" align="right" />
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer Illustration" width="450px" align="right" />
 
-# 👋 Hi! I'm Erick
+### 👋 Hi! I'm Erick
 
 I'm a 16-year-old programming student focused on **Front-End development**. I'm at the beginning of my tech journey, constantly learning and improving my skills.
 
